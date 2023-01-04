@@ -4,6 +4,11 @@ Flutter Native Splash Screen 2023
 
 This is very simple but very effective way of displayin Splash Screen with progress indicator and static image
 
+Works for
+-iOS
+-Android
+-Web
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
