@@ -1,6 +1,8 @@
 # nero_splash
 
-A new Flutter project.
+Flutter Native Splash Screen 2023
+
+This is very simple but very effective way of displayin Splash Screen with progress indicator and static image
 
 ## Getting Started
 
